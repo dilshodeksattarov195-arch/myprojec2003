@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdpdate",
+        "uuid": 8825218,
+        "checksum": "x4vwi8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
